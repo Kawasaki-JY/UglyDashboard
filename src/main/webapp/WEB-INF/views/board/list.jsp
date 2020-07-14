@@ -31,6 +31,7 @@
 			<td>${list.regDate}</td>
 			<td>${list.writer}</td>
 			<td>${list.viewCnt}</td>
+			
 		</tr>
 	  </c:forEach>
 	 </tbody>

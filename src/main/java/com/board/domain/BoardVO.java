@@ -3,7 +3,7 @@ package com.board.domain;
 import java.util.Date;
 
 public class BoardVO {
-	// tbl_board
+	// DashBoard
 
 	private int bno;
 	private String title;
